@@ -1,0 +1,12 @@
+altgraph==0.17.4
+keyboard==0.13.5
+packaging==24.2
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2025.0
+pynput==1.7.7
+pyperclip==1.9.0
+PyQt6==6.8.0
+PyQt6-Qt6==6.8.1
+PyQt6_sip==13.9.1
+six==1.17.0
+watchdog==6.0.0 
