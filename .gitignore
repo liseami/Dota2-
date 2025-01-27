@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# PyInstaller
+dist/
+build/
+*.spec
+windows_runtime_hook.py
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 项目特定文件
+*.dmg
+*.exe
+*.log 
